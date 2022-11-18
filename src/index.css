@@ -575,100 +575,6 @@ h3 span{
   text-align: center;
 }
 
-/* .projSecContainer{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 24rem;
-}
-
-.projContainer{
-  width: 35rem;
-  margin-top: 2rem;
-}
-
-.projContent{
-  display: grid;
-  justify-content: center;
-}
-
-.projImg{
-  height: 10rem;
-  border-radius: .75rem;
-  margin-bottom: 0.75rem;
-}
-
-.projName{
-  font-family: 'Roboto Slab', serif;
-  font-size: large;
-  margin: 10px 0;
-  margin-bottom: .85rem;
-}
-
-.projDesc{
-  margin: 10px;
-  font-size: medium;
-  font-family:'Segoe UI';
-}
-
-.projLink{
-  cursor: pointer;
-  font-family: 'Roboto Slab', serif;
-  display: inline-flex;
-  align-items: center;
-  column-gap: .2rem;
-  font-size: medium;
-  font-weight: 300;
-  margin-top: 10px;
-  text-decoration: none;
-  color: rgb(57, 131, 222);
-}
-
-.projLink:hover{
-  cursor: pointer;
-}
-
-.projLink i{
-  font-size: 1.5rem;
-  transition: transform .3s;
-}
-
-.projLink:hover i{
-   transform: translateX(.25rem);
-} */
-
-/* Swiper */
-
-/* .swiper-button-prev, .swiper-button-next{
-  font-weight: 700;
-  font-size: large;
-}
-
-.swiper-button-prev::after, .swiper-button-next::after{
-     font-weight: 700;
-     display: none;
-}
-
-.swiper-button-prev:hover, .swiper-button-next:hover{
-  transform: scale(1.1);
-}
-
-.swiper-slide{
-   margin-bottom: 1.5rem;
-}
-
-.swiper-scrollbar.swiper-scrollbar-horizontal{
-  display: none;
-}
-
-.projSecB .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet{
-  background-color:white;
-}
-
-.projSecW .swiper-horizontal>.swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet{
-  background-color:rgb(52, 140, 247);
-} */
-
 .projContainer{
   max-width: 749PX;
   margin-left: auto;
@@ -1273,7 +1179,7 @@ h3 span{
   }
 
   .aboutInfo p{
-    padding: 1.5rem 0rem;
+    padding: 3.5rem 0rem;
     margin: 0;
   }
 
@@ -1307,6 +1213,7 @@ h3 span{
 
   .cSec{
     height: 55rem;
+    padding-top: 5rem;
   }
 
   .contForm{
@@ -1320,14 +1227,6 @@ h3 span{
     margin-left: auto;
     margin-right: auto;
   }
-
-  /* .projImg{
-    width: 320px;
-  } */
-
-  /* .projContent{
-    align-items: center;
-  } */
 }
 
 @media (max-width: 630px){
