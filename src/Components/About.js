@@ -16,7 +16,7 @@ export default function About(props) {
               As a fresher there is a lot for me to learn but I am always up for challenges and leap 
               at any opportunity to learn something new. 
               </p>
-              <a href='https://drive.google.com/file/d/1KeGJcPGcAT907b4P49EiwEWE3PRthYpl/view?usp=sharing' target='__blank' className='resume'>Resume</a>
+              <a href='https://drive.google.com/file/d/11LmKv9qaFm5y4FL_vyPGoBtceJHFlRuK/view?usp=sharing' target='__blank' className='resume'>Resume</a>
             </div>
           </div>
           <div className='aboutSkills'>
