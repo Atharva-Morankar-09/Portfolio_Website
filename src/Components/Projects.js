@@ -153,6 +153,25 @@ export default function Projects(props) {
             <SwiperSlide>
 
               <div className='projContent'>
+                <img src='assets/lexicon.jpg' alt='Lexicon' className='projImg'></img>
+
+                <div className='projData'>
+                  <h3 className='projName'>Lexicon</h3>
+                  <p className='projDesc'>The lexicon is user-friendly and comprehensive online dictionary 
+                  that aims to provide with quick and accurate word definitions, synonyms, antonyms, usage examples, and 
+                  audio pronunciation. It is developed using HTML, CSS & JavaScript.</p>
+                  <a href='https://lexicon-jade.vercel.app/' target='_blank' className='projLink'>
+                    Check out <i class="uil uil-arrow-right"></i>
+                  </a>
+                </div>
+              </div>
+
+            </SwiperSlide>
+
+            {/* project 4 */}
+            <SwiperSlide>
+
+              <div className='projContent'>
                 <img src='assets/blackjack.jpg' alt='Blackjack' className='projImg'></img>
 
                 <div className='projData'>

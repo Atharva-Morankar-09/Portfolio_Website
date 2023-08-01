@@ -103,10 +103,10 @@ export default function Qualifications(props) {
           <div className={toggle===2?'qualContent qualContentActive':'qualContent'}>
             <div className='qualData'>
               <div>
-                <h3 className='qualDataTitle'>Competitive Programming Lead</h3>
-                <span className='qualDataSubTitle'>Google Developer Student Clubs, DIT Pune</span>
+                <h3 className='qualDataTitle'>BA3 Intern</h3>
+                <span className='qualDataSubTitle'>Barclays, Pune</span>
                 <div className='qualCal'>
-                  <i className='uil uil-calendar-alt'></i>July 2022 - Present
+                  <i className='uil uil-calendar-alt'></i>April 2023 - June 2023
                 </div>
               </div>
 
@@ -126,10 +126,10 @@ export default function Qualifications(props) {
               </div>
 
               <div>
-                <h3 className='qualDataTitle'>Sr. ACES Representative</h3>
-                <span className='qualDataSubTitle'>Association of Computer Engineering students, DIT Pune</span>
+                <h3 className='qualDataTitle'>Software Developer Intern</h3>
+                <span className='qualDataSubTitle'>Paroscale, Pune</span>
                 <div className='qualCal'>
-                  <i className='uil uil-calendar-alt'></i>Aug 2022 - Present
+                  <i className='uil uil-calendar-alt'></i>February 2023 - April 2023
                 </div>
               </div>
 
@@ -137,10 +137,10 @@ export default function Qualifications(props) {
 
             <div className='qualData'>
               <div>
-                <h3 className='qualDataTitle'>Amazon ML Summer School</h3>
-                <span className='qualDataSubTitle'>Apprenticeship, Amazon</span>
+                <h3 className='qualDataTitle'>Competitive Programming Lead</h3>
+                <span className='qualDataSubTitle'>Google Developer Student Clubs, DIT Pune</span>
                 <div className='qualCal'>
-                  <i className='uil uil-calendar-alt'></i>June 2022 - July 2022
+                  <i className='uil uil-calendar-alt'></i>July 2022 - July 2023
                 </div>
               </div>
 
